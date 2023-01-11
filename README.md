@@ -38,7 +38,7 @@ print('Swapped values are:',m1,m2)
 ```
 
 ## OUTPUT:
-![](./swap.png)
+![](swapping.png)
 
 ## RESULT:
 
